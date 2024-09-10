@@ -1,35 +1,29 @@
 /* Default for title */
-title1 
-{
-    font-size: large;
-    font-style: oblique;
+title {
+    font-size: 48px;
     color: #F1C40F;
 }
 
-p1 
-{
-    font-size: medium;
-    font-style: italic;
+p1 {
+    font-size: 32px;
     color: #7D3C98;
 }
 
-p2 
-{
-    font-size: larger;
-    font-style: oblique;
+p2 {
+    font-size: 36px;
     color: #A93226;
 }
 
-p3
-{
-    font-size: small;
-    font-style: normal;
+p3 {
+    font-size: 24px;
     color: #3F7CF6;
 }
 
-p4
-{
-    font-size: x-large;
-    font-style: oblique;
+p4 {
+    font-size: 56px;
     color: #3FF652;
+}
+
+.ending {
+    font-weight: bold;
 }
