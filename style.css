@@ -1,5 +1,5 @@
 /* Default for title */
-title {
+title1 {
     font-size: 48px;
     color: #F1C40F;
 }
@@ -26,5 +26,8 @@ p4 {
 
 .ending {
     font-weight: bold;
+}
+
+.eloquence {
     font-style: italic;
 }
