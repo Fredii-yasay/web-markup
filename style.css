@@ -4,6 +4,9 @@ title1 {
     color: #F1C40F;
 }
 
+body {
+    background-color: #ffed9e;
+}
 p1 {
     font-size: 32px;
     color: #7D3C98;
@@ -30,4 +33,14 @@ p4 {
 
 .eloquence {
     font-style: italic;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+
+favicon {
+    width: 16px;
+    height: 16px;
 }
