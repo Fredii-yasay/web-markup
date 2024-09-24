@@ -1,0 +1,57 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box
+{
+    font-size: 50px;
+    text-align: center;
+    padding: 20px;
+}
+
+section
+{
+    display: flex;
+    flex-grow: 1;
+}
+
+body
+{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+header
+{
+    min-height: 60px;
+    background-color: #90EE90;
+}
+
+footer
+{
+    min-height: 60px;
+    background-color: #F08080;
+}
+
+.left
+{
+    min-width: 25%;
+    background-color: lightgoldenrodyellow;
+}
+
+.center
+{
+    min-width: 50%;
+    background-color: aquamarine;
+}
+
+.right
+{
+    min-width: 25%;
+    background-color: cadetblue;
+}
